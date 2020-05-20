@@ -8,6 +8,7 @@ nav {
 
 .navbar-light .navbar-brand {
 	color: #fff;
+	text-align: center;
 }
 
 .navbar-light .navbar-brand:hover {
@@ -30,4 +31,8 @@ nav {
 
 .eboard {
 	margin: 5px 0 5px 0;
+}
+
+.card-body {
+	padding: 15px;
 }
