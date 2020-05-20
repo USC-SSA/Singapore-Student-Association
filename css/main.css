@@ -7,8 +7,13 @@ nav {
 }
 
 .navbar-light .navbar-brand {
+	font-size: 90%;
+
 	color: #fff;
-	text-align: center;
+}
+
+.navbar-light .navbar-text {
+	font-size: 90%;
 }
 
 .navbar-light .navbar-brand:hover {
@@ -34,5 +39,19 @@ nav {
 }
 
 .card-body {
-	padding: 15px;
+	padding: 10px;
+}
+
+.main-heading {
+	font-size: 40pt;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.about {
+	margin: 0 0 15px 0;
+}
+
+.about p {
+	font-family: 'Lato', sans-serif;
+	margin: 15px;
 }
