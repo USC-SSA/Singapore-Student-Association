@@ -23,12 +23,13 @@ nav {
 
 .social {
 	color: #666;
-	font-size: 32pt;
+	font-size: 38pt;
 	width: 100px;
 }
 
 .social:hover {
-	color: #000;
+	/* color: #000; */
+	color: #f2545b;
 }
 
 .eboard-heading {
@@ -43,4 +44,17 @@ nav {
 
 .card-body {
 	padding: 10px;
+}
+
+.logo {
+	max-width: 350px;
+}
+
+a {
+	color: #dd495c;
+}
+
+a:hover {
+	color: #ac1d2e;
+	text-decoration: underline;
 }
