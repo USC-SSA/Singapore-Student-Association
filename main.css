@@ -1,7 +1,33 @@
-body {
-	background-image: url('logo.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
+nav {
+	overflow: auto;
+}
+
+.bg-singapore {
+	background-color: #d52941;
+}
+
+.navbar-light .navbar-brand {
+	color: #fff;
+}
+
+.navbar-light .navbar-brand:hover {
+	color: #000;
+}
+
+.about {
+	margin: 20px 0 20px 0;
+}
+
+.social {
+	color: #666;
+	font-size: 32pt;
+	width: 100px;
+}
+
+.social:hover {
+	color: #000;
+}
+
+.eboard {
+	margin: 5px 0 5px 0;
 }
