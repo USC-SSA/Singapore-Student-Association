@@ -6,22 +6,19 @@ nav {
 	background-color: #d52941;
 }
 
-.navbar-light .navbar-brand {
-	font-size: 90%;
+.section-heading {
+	font-size: 40pt;
 
-	color: #fff;
+	font-family: 'Balsamiq Sans', cursive;
 }
-
-.navbar-light .navbar-text {
-	font-size: 90%;
-}
-
-.navbar-light .navbar-brand:hover {
-	color: #000;
-}
-
 .about {
-	margin: 20px 0 20px 0;
+	margin: 0 0 15px 0;
+}
+
+.about p {
+	font-size: 13pt;
+	font-family: 'Lato', sans-serif;
+	margin: 15px;
 }
 
 .social {
@@ -34,24 +31,16 @@ nav {
 	color: #000;
 }
 
-.eboard {
+.eboard-heading {
+	font-size: 30pt;
+}
+
+.eboard-card {
+	font-family: 'Lato', sans-serif;
+
 	margin: 5px 0 5px 0;
 }
 
 .card-body {
 	padding: 10px;
-}
-
-.main-heading {
-	font-size: 40pt;
-	font-family: 'Balsamiq Sans', cursive;
-}
-
-.about {
-	margin: 0 0 15px 0;
-}
-
-.about p {
-	font-family: 'Lato', sans-serif;
-	margin: 15px;
 }
