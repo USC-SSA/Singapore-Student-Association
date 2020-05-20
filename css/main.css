@@ -4,20 +4,22 @@ nav {
 
 .bg-singapore {
 	background-color: #d52941;
+	height: 70px;
+	font-size: 19pt;
 }
 
 .section-heading {
-	font-size: 40pt;
-
+	font-size: 35pt;
 	font-family: 'Balsamiq Sans', cursive;
 }
 .about {
-	margin: 0 0 15px 0;
+	margin: 0;
+	border-color: #e07142;
 }
 
 .about p {
-	font-size: 13pt;
-	font-family: 'Lato', sans-serif;
+	font-size: 14pt;
+	font-family: 'Nunito', sans-serif;
 	margin: 15px;
 }
 
@@ -33,13 +35,11 @@ nav {
 }
 
 .eboard-heading {
-	font-size: 30pt;
+	font-size: 25pt;
 }
 
 .eboard-card {
-	font-family: 'Lato', sans-serif;
-
-	margin: 5px 0 5px 0;
+	font-family: 'Nunito', sans-serif;
 }
 
 .card-body {
@@ -57,4 +57,13 @@ a {
 a:hover {
 	color: #ac1d2e;
 	text-decoration: underline;
+}
+
+.github {
+	font-size: 14pt;
+}
+
+.flag {
+	margin: 0;
+	font-size: 40pt;
 }
