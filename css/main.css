@@ -16,6 +16,7 @@ nav {
 	font-size: 35pt;
 	font-family: 'Balsamiq Sans', cursive;
 }
+
 .about {
 	margin: 0;
 	border-width: 2px;
@@ -28,6 +29,24 @@ nav {
 	font-size: 14pt;
 	font-family: 'Nunito', sans-serif;
 	margin: 15px;
+}
+
+.newsletter {
+	font-family: 'Comfortaa', cursive;
+	color: #000;
+
+	padding: 15px;
+	border-width: 2px;
+	border-color: #d52941;
+	box-shadow: 7px 7px #d52941;
+}
+
+.newsletter:hover {
+	/* color: #f2545b; */
+	color: #d52941;
+	/* color: #000; */
+	text-decoration: underline;
+	background-color: #eee;
 }
 
 .social {
