@@ -152,7 +152,7 @@
 
 			$.getJSON('data/makan-guide.json', function (makan_guide_json) {
 				for (place of makan_guide_json) {
-					const place_html = `<div class="col-6 col-md-4">
+					const place_html = `<div class="col-6 col-md-4 d-flex align-items-stretch">
 						<div class="card place_card my-2">
 							<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
 							<div class="card-body">
