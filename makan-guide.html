@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta
 			name="description"
-			content="The official USC Singapore Student Association website"
+			content="The official USC Singapore Student Association Makan Guide"
 		/>
 		<meta
 			name="google-site-verification"
@@ -14,7 +14,7 @@
 		<meta name="”robots”" content="index, follow" />
 		<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
 		<title>
-			Food Guide - USC Singapore Students' Association 🇸🇬
+			Makan Guide - USC Singapore Students' Association 🇸🇬
 		</title>
 		<!-- Bootstrap 4.5.0 -->
 		<link
@@ -97,8 +97,8 @@
 							<a class="nav-link" href="./"><i class="fas fa-home"></i></a>
 						</li>
 						<li class="nav-item active" id="active-nav">
-							<a class="nav-link" href="./food-guide.html"
-								><i class="fas fa-utensils"></i> Food Guide
+							<a class="nav-link" href="./makan-guide.html"
+								><i class="fas fa-utensils"></i> Makan Guide
 								<span class="sr-only">(current)</span></a
 							>
 						</li>
@@ -112,17 +112,17 @@
 			<div class="container">
 				<div class="text-center">
 					<h1 class="section-heading mt-4 mb-4">
-						Food Guide
+						Makan Guide
 					</h1>
 				</div>
 				<div class="card about">
 					<div class="card-body">
 						<p>
-							The official SSA food guide! (Work in Progess!)
+							The official SSA makan guide! (Work in Progess!)
 						</p>
 					</div>
 				</div>
-				<div id="food_guide_places" class="row my-4">
+				<div id="makan_guide_places" class="row my-4">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
 			</div>
@@ -148,16 +148,16 @@
 		</footer>
 		<!-- Footer -->
 		<script type="text/javascript">
-			$food_guide_places = $('#food_guide_places');
+			$makan_guide_places = $('#makan_guide_places');
 
-			$.getJSON('./data/food-guide.json', function (food_guide_json) {
-				for (place of food_guide_json) {
+			$.getJSON('./data/makan-guide.json', function (makan_guide_json) {
+				for (place of makan_guide_json) {
 					const place_html = `<div class="col-6 col-md-4">
 						<div class="card place_card my-2">
 							<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
 							<div class="card-body">
 								<h5 class="card-title">${place.name}</h5>
-								<p class="card-text">${place.foods.join(',')}</p>
+								<p class="card-text">${place.makans.join(',')}</p>
 								<a href="${place.yelp}" class="btn btn-danger yelp-button" target="_blank">
 								<i class="fab fa-yelp"></i> Yelp
 								</a>
@@ -165,7 +165,7 @@
 						</div>
 					</div>`;
 
-					$food_guide_places.append(place_html);
+					$makan_guide_places.append(place_html);
 				}
 			});
 		</script>
