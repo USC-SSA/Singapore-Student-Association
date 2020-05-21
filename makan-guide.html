@@ -159,7 +159,9 @@
 					const place_html = `<div class="col-6 col-md-4 d-flex align-items-stretch">
 						<div class="card place_card my-2">
 							<a href="${place.yelp}" target="_blank">
-								<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
+								<img src="${place.thumbnail}" class="card-img-top" alt="${
+						place.name
+					}" draggable="false" />
 							</a>
 							<div class="card-body">
 								<h5 class="card-title">${place.name}</h5>
