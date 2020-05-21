@@ -150,14 +150,14 @@
 		<script type="text/javascript">
 			$makan_guide_places = $('#makan_guide_places');
 
-			$.getJSON('./data/makan-guide.json', function (makan_guide_json) {
+			$.getJSON('data/makan-guide.json', function (makan_guide_json) {
 				for (place of makan_guide_json) {
 					const place_html = `<div class="col-6 col-md-4">
 						<div class="card place_card my-2">
 							<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
 							<div class="card-body">
 								<h5 class="card-title">${place.name}</h5>
-								<p class="card-text">${place.makans.join(',')}</p>
+								<p class="card-text">${place.foods.join(',')}</p>
 								<a href="${place.yelp}" class="btn btn-danger yelp-button" target="_blank">
 								<i class="fab fa-yelp"></i> Yelp
 								</a>
