@@ -149,3 +149,7 @@ a:hover {
 .place_card .card-body {
 	font-family: 'Nunito', sans-serif;
 }
+
+.card-title {
+	font-family: 'Balsamiq Sans', cursive;
+}
