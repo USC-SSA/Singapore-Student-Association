@@ -32,7 +32,9 @@ nav {
 }
 
 .newsletter {
-	font-family: 'Comfortaa', cursive;
+	font-size: 12pt;
+
+	font-family: 'Nunito', sans-serif;
 	color: #000;
 
 	padding: 15px;
