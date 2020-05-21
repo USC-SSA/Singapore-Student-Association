@@ -1,32 +1,32 @@
 [
 	{
 		"name": "Savoy Kitchen",
-		"foods": ["Chicken rice"],
+		"foods": ["Chicken Rice"],
 		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/l.jpg"
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/o.jpg"
 	},
 	{
-		"name": "Savoy Kitchen",
-		"foods": ["Chicken rice"],
-		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/l.jpg"
+		"name": "Simpang Asia",
+		"foods": ["Indonesian", "Malaysian", "Halal"],
+		"yelp": "https://www.yelp.com/biz/simpang-asia-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XWdR4_k7czXGGjebsTG0-Q/o.jpg"
 	},
 	{
-		"name": "Savoy Kitchen",
-		"foods": ["Chicken rice"],
-		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/l.jpg"
+		"name": "Cassia",
+		"foods": ["Singaporean", "Vietnamese", "Seafood"],
+		"yelp": "https://www.yelp.com/biz/cassia-santa-monica",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/jO0FP3yhM2GBZvriu_R7Yw/o.jpg"
 	},
 	{
-		"name": "Savoy Kitchen",
-		"foods": ["Chicken rice"],
-		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/l.jpg"
+		"name": "Cluck2Go",
+		"foods": ["Chicken Rice"],
+		"yelp": "https://www.yelp.com/biz_photos/cluck2go-pasadena-9",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/V-0eNaay_jJrcT4CnPuS0Q/o.jpg"
 	},
 	{
-		"name": "Savoy Kitchen",
-		"foods": ["Chicken rice"],
-		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/l.jpg"
+		"name": "Borneo Kalimantan Cuisine",
+		"foods": ["Indonesian", "Singaporean", "Malaysian"],
+		"yelp": "https://www.yelp.com/biz/borneo-kalimantan-cuisine-alhambra-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_6alagb-aO_mg3sOK_4JEg/o.jpg"
 	}
 ]
