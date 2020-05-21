@@ -154,11 +154,13 @@
 				for (place of makan_guide_json) {
 					const place_html = `<div class="col-6 col-md-4 d-flex align-items-stretch">
 						<div class="card place_card my-2">
-							<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
+							<a href="${place.yelp}" target="_blank">
+								<img src="${place.thumbnail}" class="card-img-top" alt="${place.name}" />
+							</a>
 							<div class="card-body">
 								<h5 class="card-title">${place.name}</h5>
 								<p class="card-text">${place.foods.join(', ')}</p>
-								<a href="${place.yelp}" class="btn btn-danger yelp-button" target="_blank">
+								<a href="${place.yelp}" target="_blank" class="btn btn-danger yelp-button">
 								<i class="fab fa-yelp"></i> Yelp
 								</a>
 							</div>
