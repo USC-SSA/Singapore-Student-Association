@@ -6,15 +6,19 @@ nav {
 	overflow: auto;
 }
 
+.moon {
+}
+
 .bg-singapore {
 	background-color: #d52941;
-	height: 70px;
 	font-size: 19pt;
+	box-sizing: border-box;
 }
 
 .section-heading {
 	font-size: 35pt;
 	font-family: 'Balsamiq Sans', cursive;
+	font-weight: bold;
 }
 
 .about {
@@ -34,7 +38,7 @@ nav {
 .newsletter {
 	font-size: 12pt;
 
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Balsamiq Sans', cursive;
 	color: #000;
 
 	color: #dd495c;
@@ -109,4 +113,21 @@ a:hover {
 .footer-content {
 	/* border-top: 1px double #d52941; */
 	font-size: 10pt;
+}
+
+.nav-link {
+	font-weight: normal;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 15pt;
+}
+
+.place_card {
+	border-width: 1px;
+	border-color: #dfdfdf;
+	box-shadow: 4px 4px #dfdfdf;
+	background-color: #fff;
+}
+
+.yelp-button {
+	font-family: Helvetica, sans-serif;
 }
