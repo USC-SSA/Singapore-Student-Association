@@ -80,6 +80,9 @@ nav {
 
 .eboard-card {
 	font-family: 'Nunito', sans-serif;
+	border-color: #dfdfdf;
+	box-shadow: 4px 4px #dfdfdf;
+	background-color: #fff;
 }
 
 .card {
