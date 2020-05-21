@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Everybody's Kitchen",
+		"foods": [
+			"Rated 2020 LA Best Resturant",
+			"Chicken Tenders",
+			"Single Banana",
+			"Home to EVKitty"
+		],
+		"yelp": "https://www.yelp.com/biz/evk-dining-hall-usc-los-angeles-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/rupMLQZkQBkG9rzNBj8NmA/o.jpg"
+	},
+	{
 		"name": "Savoy Kitchen",
 		"foods": ["Chicken Rice"],
 		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
