@@ -37,6 +37,8 @@ nav {
 	font-family: 'Nunito', sans-serif;
 	color: #000;
 
+	color: #dd495c;
+
 	padding: 15px;
 	border-width: 2px;
 	border-color: #d52941;
@@ -45,10 +47,15 @@ nav {
 
 .newsletter:hover {
 	/* color: #f2545b; */
-	color: #d52941;
+	color: #ac1d2e;
 	/* color: #000; */
 	text-decoration: underline;
 	/* background-color: #eee; */
+}
+
+.no_underline {
+	display: inline-block;
+	text-decoration: none !important;
 }
 
 .social {
