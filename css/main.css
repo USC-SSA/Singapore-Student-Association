@@ -130,7 +130,7 @@ a:hover {
 .place_card {
 	border-width: 1px;
 	border-color: #dfdfdf;
-	box-shadow: 4px 4px #dfdfdf;
+	box-shadow: 5px 5px #dfdfdf;
 	background-color: #fff;
 }
 
