@@ -146,7 +146,6 @@ a:hover {
 
 .place_card .card-title {
 	font-family: 'Balsamiq Sans', cursive;
-	/* font-weight: bold; */
 }
 
 .place_card .card-body {
@@ -154,5 +153,9 @@ a:hover {
 }
 
 .card-title {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h2 {
 	font-family: 'Balsamiq Sans', cursive;
 }

@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Fragrant Jerky",
+		"tags": ["Bakkwa"],
+		"yelp": "https://www.yelp.com/biz_photos/fragrant-jerky-rosemead-14",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/2Nn2bNBfYGiZ-f_UO94OKg/o.jpg"
+	},
+	{
+		"name": "Prata House",
+		"tags": ["Prata", "Murtabak", "Kambing Soup"],
+		"yelp": "https://www.yelp.co.uk/biz/prata-house-west-covina",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qepl5uLCQWUFsbcZKuRZEA/o.jpg"
+	},
+	{
+		"name": "Belacan Grill",
+		"tags": ["Malaysian Bistro"],
+		"yelp": "https://www.yelp.com/biz/belacan-grill-malaysian-bistro-tustin",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Lsq6yl6DnHmTKPfWKt8Snw/o.jpg"
+	},
+	{
+		"name": "Seasonal Kitchen USA",
+		"tags": ["Malaysian Bistro"],
+		"yelp": "https://www.yelp.com/biz/seasons-kitchen-usa-anaheim",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/m07SjJnRHmP97MGT1VG6Lw/o.jpg"
+	},
+	{
+		"name": "Seasonal Kitchen USA",
+		"tags": ["Asian Fusion"],
+		"yelp": "https://www.yelp.com/biz/shiok-asian-street-food-torrance",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/1naA8cIx4skJMt3FQOm29w/o.jpg"
+	},
+	{
+		"name": "Mee and Greet",
+		"tags": ["Asian Fusion"],
+		"yelp": "https://www.yelp.com/biz/mee-and-greet-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/RQ-AgMEooqGAeGvThQ2czw/o.jpg"
+	},
+	{
+		"name": "Singapore's Banana Leaf",
+		"tags": ["Singaporean"],
+		"yelp": "https://www.yelp.com/biz/singapores-banana-leaf-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/DY_WSKy2fSBjmc_z8bTaoQ/o.jpg"
+	},
+	{
+		"name": "Sidechick",
+		"tags": ["Chicken Rice"],
+		"yelp": "https://www.yelp.com/biz/side-chick-arcadia",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YEhff1HJW6_v9qSaIRBerg/o.jpg"
+	},
+
+	{
+		"name": "Savoy Kitchen",
+		"tags": ["Chicken Rice"],
+		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/o.jpg"
+	},
+	{
+		"name": "Simpang Asia",
+		"tags": ["Indonesian", "Malaysian", "Halal"],
+		"yelp": "https://www.yelp.com/biz/simpang-asia-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XWdR4_k7czXGGjebsTG0-Q/o.jpg"
+	},
+	{
+		"name": "Cassia",
+		"tags": ["Singaporean", "Vietnamese", "Seafood"],
+		"yelp": "https://www.yelp.com/biz/cassia-santa-monica",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/jO0FP3yhM2GBZvriu_R7Yw/o.jpg"
+	},
+	{
+		"name": "Cluck2Go",
+		"tags": ["Chicken Rice"],
+		"yelp": "https://www.yelp.com/biz_photos/cluck2go-pasadena-9",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/V-0eNaay_jJrcT4CnPuS0Q/o.jpg"
+	},
+	{
+		"name": "Borneo Kalimantan Cuisine",
+		"tags": ["Indonesian", "Singaporean", "Malaysian"],
+		"yelp": "https://www.yelp.com/biz/borneo-kalimantan-cuisine-alhambra-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_6alagb-aO_mg3sOK_4JEg/o.jpg"
+	}
+]

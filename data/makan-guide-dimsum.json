@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Lunasia Chinese Cuisine",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/-y417rMDDsKeBkWNAOpPXw/o.jpg"
+	},
+	{
+		"name": "Elite Restaurant",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/elite-restaurant-monterey-park",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YFFXNT7cTCSeTsPtKMnWhQ/o.jpg"
+	},
+
+	{
+		"name": "The Palace Seafood & Dim Sum",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/the-palace-seafood-and-dim-sum-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/LfxqxTeYuBW5Nb_UXW81zA/o.jpg"
+	},
+
+	{
+		"name": "Sea Harbour",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/sea-harbour-rosemead",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/p0CBiqVSa8SsGwgHw0qsig/o.jpg"
+	}
+]

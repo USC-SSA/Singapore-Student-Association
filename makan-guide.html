@@ -123,7 +123,28 @@
 						</p>
 					</div>
 				</div>
-				<div id="makan_guide_places" class="row my-4">
+				<div class="text-center">
+					<h2 class="mt-4 mb-2">Southeast Asian</h2>
+				</div>
+				<div id="makan-sea" class="row mb-2">
+					<!-- Populated via jQuery JSON -- Easier to manage data -->
+				</div>
+				<div class="text-center">
+					<h2>Dim Sum</h2>
+				</div>
+				<div id="makan-dimsum" class="row mb-2">
+					<!-- Populated via jQuery JSON -- Easier to manage data -->
+				</div>
+				<div class="text-center">
+					<h2>Around USC</h2>
+				</div>
+				<div id="makan-usc" class="row mb-2">
+					<!-- Populated via jQuery JSON -- Easier to manage data -->
+				</div>
+				<div class="text-center">
+					<h2>Honorable Mentions</h2>
+				</div>
+				<div id="makan-mentions" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
 			</div>
@@ -152,33 +173,12 @@
 			</div>
 		</footer>
 		<!-- Footer -->
+		<script type="text/javascript" src="js/makan.js"></script>
 		<script type="text/javascript">
-			$makan_guide_places = $('#makan_guide_places');
-
-			$.getJSON('data/makan-guide.json', function (makan_guide_json) {
-				for (place of makan_guide_json) {
-					const place_html = `<div class="col-6 col-md-4 d-flex align-items-stretch">
-						<div class="card place_card my-2">
-							<a href="${place.yelp}" target="_blank">
-								<img src="${place.thumbnail}" class="card-img-top" alt="${
-						place.name
-					}" draggable="false" />
-							</a>
-							<div class="card-body">
-								<h5 class="card-title">${place.name}</h5>
-								<p class="card-text">${place.foods.join(', ')}</p>
-							</div>
-							<div class="card-footer bg-transparent">
-								<a href="${place.yelp}" target="_blank" class="btn btn-danger yelp-button">
-								<i class="fab fa-yelp"></i> Yelp
-								</a>
-							</div>
-						</div>
-					</div>`;
-
-					$makan_guide_places.append(place_html);
-				}
-			});
+			loadPlaces('data/makan-guide-sea.json', $('#makan-sea'));
+			loadPlaces('data/makan-guide-dimsum.json', $('#makan-dimsum'));
+			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'));
+			loadPlaces('data/makan-guide-mentions.json', $('#makan-mentions'));
 		</script>
 	</body>
 </html>

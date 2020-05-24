@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Tsujita LA",
+		"tags": ["Tsukemen"],
+		"yelp": "https://www.yelp.com/biz/tsujita-la-artisan-noodle-los-angeles-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/1ATkG2fZOo7lUVRET8assQ/o.jpg"
+	},
+	{
+		"name": "Mogumogu",
+		"tags": ["Dry Ramen"],
+		"yelp": "https://www.yelp.com/biz/mogumogu-los-angeles-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/dLKz1erem3kuhu0slLHxOw/o.jpg"
+	},
+	{
+		"name": "Jinsol Gukbap",
+		"tags": ["Korean"],
+		"yelp": "https://www.yelp.com/biz/jinsol-gukbap-los-angeles-5",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/bwPd49t_tbVhU9esxLCduw/o.jpg"
+	},
+	{
+		"name": "Beverly Soon Tofu Restaurant",
+		"tags": ["Korean", "Tofu Soup"],
+		"yelp": "https://www.yelp.com/biz/beverly-soon-tofu-restaurant-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/V8IRFH99f5DUY5QmZbFyuA/o.jpg"
+	}
+]
