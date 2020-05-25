@@ -30,5 +30,11 @@
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/the-dim-sum-co-westminster-3",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/dNmqsUlca48w9bZvMtH-fw/o.jpg"
+	},
+	{
+		"name": "Din Tai Fung",
+		"tags": ["Dim Sum", "Xiao Long Bao"],
+		"yelp": "https://www.yelp.com/biz/din-tai-fung-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XsbphtF4POVa2LNKvryg2A/o.jpg"
 	}
 ]
