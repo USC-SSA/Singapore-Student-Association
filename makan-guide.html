@@ -133,7 +133,7 @@
 								>Southeast Asian</a
 							>
 							<a href="#dim-sum" class="alert alert-warning">Dim Sum</a>
-							<a href="#boba" class="alert alert-dark">Boba</a>
+							<a href="#desserts" class="alert alert-dark">Boba and Desserts</a>
 							<a href="#mentions" class="alert alert-info"
 								>Honorable Mentions</a
 							>
@@ -154,29 +154,32 @@
 				<div id="makan-usc" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
-				<div class="text-center flag">🇸🇬</div>
+				<div id="southeast-asian" class="text-center emoji-separator">🇸🇬</div>
 				<div class="text-center">
-					<h2 id="southeast-asian" class="mt-4 mb-2">
+					<h2 class="mt-4 mb-2">
 						Southeast Asian
 					</h2>
 				</div>
 				<div id="makan-sea" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
+				<div id="dim-sum" class="text-center emoji-separator">🥟</div>
 				<div class="text-center">
-					<h2 id="dim-sum" class="mt-4 mb-2">Dim Sum</h2>
+					<h2 class="mt-4 mb-2">Dim Sum</h2>
 				</div>
 				<div id="makan-dimsum" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
+				<div id="desserts" class="text-center emoji-separator">🥤🍦🍧</div>
 				<div class="text-center">
-					<h2 id="boba" class="mt-4 mb-2">Boba (Bubble Tea)</h2>
+					<h2 class="mt-4 mb-2">Boba and Desserts</h2>
 				</div>
-				<div id="makan-boba" class="row mb-2">
+				<div id="makan-desserts" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
+				<div id="mentions" class="text-center emoji-separator">⭐</div>
 				<div class="text-center">
-					<h2 id="mentions" class="mt-4 mb-2">Honorable Mentions</h2>
+					<h2 class="mt-4 mb-2">Honorable Mentions</h2>
 				</div>
 				<div id="makan-mentions" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
@@ -212,7 +215,11 @@
 			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'), 'text-danger');
 			loadPlaces('data/makan-guide-sea.json', $('#makan-sea'), 'text-success');
 			loadPlaces('data/makan-guide-dimsum.json', $('#makan-dimsum'), 'orange');
-			loadPlaces('data/makan-guide-boba.json', $('#makan-boba'), 'grey');
+			loadPlaces(
+				'data/makan-guide-desserts.json',
+				$('#makan-desserts'),
+				'grey'
+			);
 			loadPlaces(
 				'data/makan-guide-mentions.json',
 				$('#makan-mentions'),

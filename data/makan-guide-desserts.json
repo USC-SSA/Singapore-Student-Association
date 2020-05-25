@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Wushiland Boba",
+		"areas": ["Century City", "San Gabriel"],
+		"tags": ["Boba"],
+		"yelp": "https://www.yelp.com/biz/wushiland-boba-san-gabriel",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/kZhhdillQMwv1wUlzOXRGg/o.jpg"
+	},
+	{
+		"name": "Boba Guys",
+		"areas": ["Culver City", "Long Beach", "North Hollywood", "Westlake"],
+		"tags": ["Boba", "Matcha Strawberry Boba"],
+		"yelp": "https://www.yelp.com/biz/boba-guys-los-angeles-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Q4dDBpOf8pgPMXuzf-EN-g/o.jpg"
+	},
+	{
+		"name": "Tiger Sugar",
+		"areas": ["Rowland Heights"],
+		"tags": ["Boba", "Brown Sugar Boba"],
+		"yelp": "https://www.yelp.com/biz/tiger-sugar-rowland-heights",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/p0pO2XFMnF9dgj2DaRTbag/o.jpg"
+	},
+	{
+		"name": "Pot of Cha",
+		"areas": ["USC", "Figueroa"],
+		"tags": ["Boba"],
+		"yelp": "https://www.yelp.com/biz/pot-of-cha-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/cxqnu9cOLU1qmgJ6DxxmfQ/o.jpg"
+	},
+	{
+		"name": "Meet Fresh",
+		"areas": ["Temple City"],
+		"tags": ["Asian Desserts"],
+		"yelp": "https://www.yelp.com/biz/meet-fresh-temple-city",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YsQEV7Vw4-4B7PRQQAcLeQ/o.jpg"
+	},
+	{
+		"name": "Blackball",
+		"areas": ["San Gabriel"],
+		"tags": ["Asian Desserts"],
+		"yelp": "https://www.yelp.com/biz/blackball-taiwanese-dessert-san-gabriel-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/xO5tl--50o-uHopaw2hyrA/o.jpg"
+	},
+	{
+		"name": "Oakobing",
+		"areas": ["Koreatown"],
+		"tags": ["Bingsu", "Korean Desserts", "Shaved Ice"],
+		"yelp": "https://www.yelp.com/biz/oakobing-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/W36q0jRhpkJFmJtbpOEjIg/o.jpg"
+	},
+	{
+		"name": "Sul & Beans",
+		"areas": ["Koreatown"],
+		"tags": ["Bingsu", "Korean Desserts", "Shaved Ice"],
+		"yelp": "https://www.yelp.com/biz/sul-and-beans-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/ZK2uNmZL2GZiTh3E4xR-5A/o.jpg"
+	},
+	{
+		"name": "Anko",
+		"areas": ["Koreatown"],
+		"tags": ["Bingsu", "Korean Desserts", "Shaved Ice"],
+		"yelp": "https://www.yelp.com/biz/anko-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/WboGOBB0cVxn-FBCdfVUiw/o.jpg"
+	}
+]

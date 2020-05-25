@@ -108,7 +108,7 @@ a:hover {
 	font-size: 14pt;
 }
 
-.flag {
+.emoji-separator {
 	margin: 0;
 	font-size: 50pt;
 }
@@ -139,8 +139,8 @@ a:hover {
 
 .card-img-top {
 	width: 100%;
-	min-height: 200px;
-	height: 20vw;
+	min-height: 150px;
+	height: 250px;
 	object-fit: cover;
 }
 
