@@ -1,15 +1,9 @@
 [
 	{
-		"name": "Fragrant Jerky",
-		"tags": ["Bakkwa"],
-		"yelp": "https://www.yelp.com/biz_photos/fragrant-jerky-rosemead-14",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/2Nn2bNBfYGiZ-f_UO94OKg/o.jpg"
-	},
-	{
-		"name": "Prata House",
-		"tags": ["Prata", "Murtabak", "Kambing Soup"],
-		"yelp": "https://www.yelp.co.uk/biz/prata-house-west-covina",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qepl5uLCQWUFsbcZKuRZEA/o.jpg"
+		"name": "Singapore's Banana Leaf",
+		"tags": ["Singaporean"],
+		"yelp": "https://www.yelp.com/biz/singapores-banana-leaf-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/DY_WSKy2fSBjmc_z8bTaoQ/o.jpg"
 	},
 	{
 		"name": "Belacan Grill",
@@ -36,12 +30,6 @@
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/RQ-AgMEooqGAeGvThQ2czw/o.jpg"
 	},
 	{
-		"name": "Singapore's Banana Leaf",
-		"tags": ["Singaporean"],
-		"yelp": "https://www.yelp.com/biz/singapores-banana-leaf-los-angeles",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/DY_WSKy2fSBjmc_z8bTaoQ/o.jpg"
-	},
-	{
 		"name": "Sidechick",
 		"tags": ["Chicken Rice"],
 		"yelp": "https://www.yelp.com/biz/side-chick-arcadia",
@@ -59,6 +47,18 @@
 		"tags": ["Indonesian", "Malaysian", "Halal"],
 		"yelp": "https://www.yelp.com/biz/simpang-asia-los-angeles",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XWdR4_k7czXGGjebsTG0-Q/o.jpg"
+	},
+	{
+		"name": "Fragrant Jerky",
+		"tags": ["Bakkwa"],
+		"yelp": "https://www.yelp.com/biz_photos/fragrant-jerky-rosemead-14",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/2Nn2bNBfYGiZ-f_UO94OKg/o.jpg"
+	},
+	{
+		"name": "Prata House",
+		"tags": ["Prata", "Murtabak", "Kambing Soup"],
+		"yelp": "https://www.yelp.co.uk/biz/prata-house-west-covina",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qepl5uLCQWUFsbcZKuRZEA/o.jpg"
 	},
 	{
 		"name": "Cassia",
