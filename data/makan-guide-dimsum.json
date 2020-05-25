@@ -36,5 +36,11 @@
 		"tags": ["Dim Sum", "Xiao Long Bao"],
 		"yelp": "https://www.yelp.com/biz/din-tai-fung-los-angeles",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XsbphtF4POVa2LNKvryg2A/o.jpg"
+	},
+	{
+		"name": "NBC Seafood Restaurant",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/nbc-seafood-restaurant-monterey-park",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/KuL2pfogCDcW9pZrLFfmRg/o.jpg"
 	}
 ]

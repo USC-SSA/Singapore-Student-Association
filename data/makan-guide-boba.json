@@ -4,5 +4,17 @@
 		"tags": ["Boba"],
 		"yelp": "https://www.yelp.com/biz/wushiland-boba-san-gabriel",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/kZhhdillQMwv1wUlzOXRGg/o.jpg"
+	},
+	{
+		"name": "Boba Guys",
+		"tags": ["Boba", "Matcha Strawberry Boba"],
+		"yelp": "https://www.yelp.com/biz/boba-guys-los-angeles-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Q4dDBpOf8pgPMXuzf-EN-g/o.jpg"
+	},
+	{
+		"name": "Tiger Sugar",
+		"tags": ["Boba", "Brown Sugar Boba"],
+		"yelp": "https://www.yelp.com/biz/tiger-sugar-rowland-heights",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/p0pO2XFMnF9dgj2DaRTbag/o.jpg"
 	}
 ]
