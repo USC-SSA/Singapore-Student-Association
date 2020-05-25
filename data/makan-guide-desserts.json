@@ -75,5 +75,12 @@
 		"tags": ["Southeast Asian Desserts"],
 		"yelp": "https://www.yelp.com/biz/bambu-gardena-3",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/mJxIiXjA2TmYVipanUqrxg/o.jpg"
+	},
+	{
+		"name": "One Zo",
+		"areas": ["Monterey Park", "Pasadena", "West Covina"],
+		"tags": ["Boba"],
+		"yelp": "https://www.yelp.com/biz/one-zo-monterey-park-monterey-park-6",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/y4ZudByA26l7YpU_VIfXHw/o.jpg"
 	}
 ]

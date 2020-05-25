@@ -49,5 +49,19 @@
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/nbc-seafood-restaurant-monterey-park",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/KuL2pfogCDcW9pZrLFfmRg/o.jpg"
+	},
+	{
+		"name": "Monterey Palace Restaurant",
+		"areas": ["Monterey Park"],
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/monterey-palace-restaurant-monterey-park",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/VP6RUVNVzjkOVgIFM2X0UA/o.jpg"
+	},
+	{
+		"name": "Atlantic Seafood & Dim Sum Restaurant",
+		"areas": ["Monterey Park"],
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/atlantic-seafood-and-dim-sum-restaurant-monterey-park-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/bnhV4NsD--1rD3meniK_kg/o.jpg"
 	}
 ]
