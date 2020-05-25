@@ -24,5 +24,11 @@
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/sea-harbour-rosemead",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/p0CBiqVSa8SsGwgHw0qsig/o.jpg"
+	},
+	{
+		"name": "The Dim Sum Co",
+		"tags": ["Dim Sum"],
+		"yelp": "https://www.yelp.com/biz/the-dim-sum-co-westminster-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/dNmqsUlca48w9bZvMtH-fw/o.jpg"
 	}
 ]

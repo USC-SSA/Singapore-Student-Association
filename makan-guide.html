@@ -124,25 +124,32 @@
 					</div>
 				</div>
 				<div class="text-center">
+					<h2 class="mt-4 mb-2">Around USC</h2>
+				</div>
+				<div id="makan-usc" class="row mb-2">
+					<!-- Populated via jQuery JSON -- Easier to manage data -->
+				</div>
+
+				<div class="text-center">
 					<h2 class="mt-4 mb-2">Southeast Asian</h2>
 				</div>
 				<div id="makan-sea" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
 				<div class="text-center">
-					<h2>Dim Sum</h2>
+					<h2 class="mt-4 mb-2">Dim Sum</h2>
 				</div>
 				<div id="makan-dimsum" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
 				<div class="text-center">
-					<h2>Around USC</h2>
+					<h2 class="mt-4 mb-2">Boba</h2>
 				</div>
-				<div id="makan-usc" class="row mb-2">
+				<div id="makan-boba" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
 				</div>
 				<div class="text-center">
-					<h2>Honorable Mentions</h2>
+					<h2 class="mt-4 mb-2">Honorable Mentions</h2>
 				</div>
 				<div id="makan-mentions" class="row mb-2">
 					<!-- Populated via jQuery JSON -- Easier to manage data -->
@@ -175,9 +182,10 @@
 		<!-- Footer -->
 		<script type="text/javascript" src="js/makan.js"></script>
 		<script type="text/javascript">
+			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'));
 			loadPlaces('data/makan-guide-sea.json', $('#makan-sea'));
 			loadPlaces('data/makan-guide-dimsum.json', $('#makan-dimsum'));
-			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'));
+			loadPlaces('data/makan-guide-boba.json', $('#makan-boba'));
 			loadPlaces('data/makan-guide-mentions.json', $('#makan-mentions'));
 		</script>
 	</body>

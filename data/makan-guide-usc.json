@@ -1,13 +1,20 @@
 [
 	{
 		"name": "Everybody's Kitchen",
-		"tags": [
-			"Rated 2020 LA Best Resturant",
-			"Chicken Tenders",
-			"Single Banana",
-			"Home to EVKitty"
-		],
+		"tags": ["Chicken Tenders", "Single Banana", "Home to EVKitty"],
 		"yelp": "https://www.yelp.com/biz/evk-dining-hall-usc-los-angeles-2",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/rupMLQZkQBkG9rzNBj8NmA/o.jpg"
+		"thumbnail": "https://fastly.4sqi.net/img/general/200x200/34172543_iXssMtkL11uw01kZ41fkMenr_g0z8bKBFRsn9cGRVUg.jpg"
+	},
+	{
+		"name": "Law School Café",
+		"tags": ["Salmon Rice Bowl", "Rice Bowls", "Boba"],
+		"yelp": "https://www.yelp.com/biz/law-school-caf%C3%A9-los-angeles-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/w2Cnq7wW4aO3FX9WzYpWyQ/o.jpg"
+	},
+	{
+		"name": "Law School Café",
+		"tags": ["Ramen", "Sushi", "Rice Bowls"],
+		"yelp": "https://www.yelp.com/biz/fertitta-cafe-los-angeles-2",
+		"thumbnail": "https://hospitality.usc.edu/wp-content/uploads/2016/05/Fertitta@2x.jpg"
 	}
 ]
