@@ -5,7 +5,11 @@ function loadPlaces(fileName, $place_container, accent) {
 				.join(' ')
 				.toLowerCase()} ${place.tags.join(' ').toLowerCase()}">
             <div class="card place_card my-2">
-                <a href="${place.yelp}" target="_blank">
+                <a data-fancybox="gallery" href="${
+									place.thumbnail
+								}"  data-caption="<strong>${
+				place.name
+			}</strong> in <em>${place.areas.join('</em>, <em>')}</em>">
                     <img src="${place.thumbnail}" class="card-img-top" alt="${
 				place.name
 			}" draggable="false" />
