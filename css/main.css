@@ -159,3 +159,7 @@ a:hover {
 h2 {
 	font-family: 'Balsamiq Sans', cursive;
 }
+
+#makan-categories a {
+	display: inline-flex;
+}
