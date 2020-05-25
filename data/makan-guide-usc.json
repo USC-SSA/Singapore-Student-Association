@@ -1,12 +1,5 @@
 [
 	{
-		"name": "Everybody's Kitchen",
-		"areas": ["USC"],
-		"tags": ["Chicken Tenders", "Single Banana", "Home to EVKitty"],
-		"yelp": "https://www.yelp.com/biz/evk-dining-hall-usc-los-angeles-2",
-		"thumbnail": "https://fastly.4sqi.net/img/general/200x200/34172543_iXssMtkL11uw01kZ41fkMenr_g0z8bKBFRsn9cGRVUg.jpg"
-	},
-	{
 		"name": "Law School Café",
 		"areas": ["USC"],
 		"tags": ["Salmon Rice Bowl", "Rice Bowls", "Boba"],
