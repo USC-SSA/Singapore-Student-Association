@@ -111,5 +111,12 @@
 		"tags": ["Laksa", "Singaporean"],
 		"yelp": "https://www.yelp.com/biz_photos/qq-kopitiam-pasadena",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/CDVqE4_7zbyYC1Yer1PxwQ/o.jpg"
+	},
+	{
+		"name": "Lee's Sandwiches",
+		"areas": ["Gardena", "Alhambra", "Torrance"],
+		"tags": ["Vietnamese", "Bahn Mi"],
+		"yelp": "https://www.yelp.com/biz/lees-sandwiches-alhambra",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/q7MlnfjZxUfzt8REptvB0w/o.jpg"
 	}
 ]

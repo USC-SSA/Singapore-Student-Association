@@ -61,5 +61,19 @@
 		"tags": ["Bingsu", "Korean Desserts", "Shaved Ice"],
 		"yelp": "https://www.yelp.com/biz/anko-los-angeles",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/WboGOBB0cVxn-FBCdfVUiw/o.jpg"
+	},
+	{
+		"name": "Cafe Bora",
+		"areas": ["Koreatown"],
+		"tags": ["Bingsu", "Korean Desserts", "Shaved Ice"],
+		"yelp": "https://www.yelp.com/biz_photos/cafe-bora-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/vEZsbVwG_1bBqfsr7_ayfw/o.jpg"
+	},
+	{
+		"name": "Bambu",
+		"areas": ["Koreatown", "San Gabriel"],
+		"tags": ["Southeast Asian Desserts"],
+		"yelp": "https://www.yelp.com/biz/bambu-gardena-3",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/mJxIiXjA2TmYVipanUqrxg/o.jpg"
 	}
 ]
