@@ -1,12 +1,14 @@
 [
 	{
 		"name": "Lunasia Chinese Cuisine",
+		"areas": ["Alhambra", "Pasadena"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/-y417rMDDsKeBkWNAOpPXw/o.jpg"
 	},
 	{
 		"name": "Elite Restaurant",
+		"areas": ["Monterey Park"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/elite-restaurant-monterey-park",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YFFXNT7cTCSeTsPtKMnWhQ/o.jpg"
@@ -14,6 +16,7 @@
 
 	{
 		"name": "The Palace Seafood & Dim Sum",
+		"areas": ["Brentwood"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/the-palace-seafood-and-dim-sum-los-angeles",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/LfxqxTeYuBW5Nb_UXW81zA/o.jpg"
@@ -21,24 +24,28 @@
 
 	{
 		"name": "Sea Harbour",
+		"areas": ["Rosemead"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/sea-harbour-rosemead",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/p0CBiqVSa8SsGwgHw0qsig/o.jpg"
 	},
 	{
 		"name": "The Dim Sum Co",
+		"areas": ["Westminster"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/the-dim-sum-co-westminster-3",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/dNmqsUlca48w9bZvMtH-fw/o.jpg"
 	},
 	{
 		"name": "Din Tai Fung",
+		"areas": ["Arcadia", "Century City", "Glendale", "Torrance"],
 		"tags": ["Dim Sum", "Xiao Long Bao"],
 		"yelp": "https://www.yelp.com/biz/din-tai-fung-los-angeles",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XsbphtF4POVa2LNKvryg2A/o.jpg"
 	},
 	{
 		"name": "NBC Seafood Restaurant",
+		"areas": ["Monterey Park"],
 		"tags": ["Dim Sum"],
 		"yelp": "https://www.yelp.com/biz/nbc-seafood-restaurant-monterey-park",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/KuL2pfogCDcW9pZrLFfmRg/o.jpg"

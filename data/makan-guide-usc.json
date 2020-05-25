@@ -1,20 +1,44 @@
 [
 	{
 		"name": "Everybody's Kitchen",
+		"areas": ["USC"],
 		"tags": ["Chicken Tenders", "Single Banana", "Home to EVKitty"],
 		"yelp": "https://www.yelp.com/biz/evk-dining-hall-usc-los-angeles-2",
 		"thumbnail": "https://fastly.4sqi.net/img/general/200x200/34172543_iXssMtkL11uw01kZ41fkMenr_g0z8bKBFRsn9cGRVUg.jpg"
 	},
 	{
 		"name": "Law School Café",
+		"areas": ["USC"],
 		"tags": ["Salmon Rice Bowl", "Rice Bowls", "Boba"],
 		"yelp": "https://www.yelp.com/biz/law-school-caf%C3%A9-los-angeles-2",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/w2Cnq7wW4aO3FX9WzYpWyQ/o.jpg"
 	},
 	{
 		"name": "Fertitta Cafe",
+		"areas": ["USC"],
 		"tags": ["Ramen", "Sushi", "Rice Bowls"],
 		"yelp": "https://www.yelp.com/biz/fertitta-cafe-los-angeles-2",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/UXHBGP-gY4tbRLcW_wG7aQ/o.jpg"
+	},
+	{
+		"name": "Pot of Cha",
+		"areas": ["USC", "Figueroa"],
+		"tags": ["Boba"],
+		"yelp": "https://www.yelp.com/biz/pot-of-cha-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/cxqnu9cOLU1qmgJ6DxxmfQ/o.jpg"
+	},
+	{
+		"name": "El Huero",
+		"areas": ["USC", "Figueroa"],
+		"tags": ["Mexican"],
+		"yelp": "https://www.yelp.com/biz/el-huero-los-angeles-2",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Mkvtu2BPmYgbVc70zvLW0Q/o.jpg"
+	},
+	{
+		"name": "Northern Cafe",
+		"areas": ["USC", "Figueroa"],
+		"tags": ["Chinese"],
+		"yelp": "https://www.yelp.com/biz/northern-cafe-los-angeles-6",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/jh4GthT8YfIZTIQ8zkvj2A/o.jpg"
 	}
 ]

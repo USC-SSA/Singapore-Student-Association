@@ -163,3 +163,16 @@ h2 {
 #makan-categories a {
 	display: inline-flex;
 }
+
+.areas {
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+.grey {
+	color: #555;
+}
+
+.orange {
+	color: rgb(255, 136, 0);
+}

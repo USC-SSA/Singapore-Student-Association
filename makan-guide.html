@@ -135,6 +135,14 @@
 						</p>
 					</div>
 				</div>
+				<br />
+				<input
+					type="text"
+					class="form-control"
+					id="makan-search"
+					placeholder="Search Tags (ex. Chicken Rice, Santa Monica, Arcadia)"
+				/>
+
 				<div class="text-center">
 					<h2 id="usc" class="mt-4 mb-2">Around USC</h2>
 				</div>
@@ -196,11 +204,15 @@
 		<!-- Footer -->
 		<script type="text/javascript" src="js/makan.js"></script>
 		<script type="text/javascript">
-			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'));
-			loadPlaces('data/makan-guide-sea.json', $('#makan-sea'));
-			loadPlaces('data/makan-guide-dimsum.json', $('#makan-dimsum'));
-			loadPlaces('data/makan-guide-boba.json', $('#makan-boba'));
-			loadPlaces('data/makan-guide-mentions.json', $('#makan-mentions'));
+			loadPlaces('data/makan-guide-usc.json', $('#makan-usc'), 'text-danger');
+			loadPlaces('data/makan-guide-sea.json', $('#makan-sea'), 'text-success');
+			loadPlaces('data/makan-guide-dimsum.json', $('#makan-dimsum'), 'orange');
+			loadPlaces('data/makan-guide-boba.json', $('#makan-boba'), 'grey');
+			loadPlaces(
+				'data/makan-guide-mentions.json',
+				$('#makan-mentions'),
+				'text-info'
+			);
 		</script>
 	</body>
 </html>
