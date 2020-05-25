@@ -90,5 +90,26 @@
 		"tags": ["Indonesian", "Singaporean", "Malaysian"],
 		"yelp": "https://www.yelp.com/biz/borneo-kalimantan-cuisine-alhambra-2",
 		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_6alagb-aO_mg3sOK_4JEg/o.jpg"
+	},
+	{
+		"name": "Mr. Sate",
+		"areas": ["Alhambra"],
+		"tags": ["Indonesian", "Asian Fusion", "Satay"],
+		"yelp": "https://www.yelp.com/biz/mr-sate-los-angeles",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/hVqQ8pr93HMBsvcMYgm4uA/o.jpg"
+	},
+	{
+		"name": "Uncle Fung Borneo Eatery",
+		"areas": ["Buena Park", "Long Beach"],
+		"tags": ["Indonesian", "Malaysian", "Singaporean", "Laksa"],
+		"yelp": "https://www.yelp.com/biz/uncle-fung-borneo-eatery-long-beach",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/4wx8mXCwZJBkN7Uq54j_MA/o.jpg"
+	},
+	{
+		"name": "QQ Kopitiam",
+		"areas": ["Pasadena"],
+		"tags": ["Laksa", "Singaporean"],
+		"yelp": "https://www.yelp.com/biz_photos/qq-kopitiam-pasadena",
+		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/CDVqE4_7zbyYC1Yer1PxwQ/o.jpg"
 	}
 ]

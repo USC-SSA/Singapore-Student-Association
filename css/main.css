@@ -140,7 +140,7 @@ a:hover {
 .card-img-top {
 	width: 100%;
 	min-height: 150px;
-	height: 250px;
+	height: 220px;
 	object-fit: cover;
 }
 
