@@ -1,122 +1,122 @@
 [
-	{
-		"name": "Singapore's Banana Leaf",
-		"areas": ["Fairfax"],
-		"tags": ["Singaporean"],
-		"yelp": "https://www.yelp.com/biz/singapores-banana-leaf-los-angeles",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/DY_WSKy2fSBjmc_z8bTaoQ/o.jpg"
-	},
-	{
-		"name": "Belacan Grill",
-		"areas": ["Tustin"],
-		"tags": ["Malaysian Bistro"],
-		"yelp": "https://www.yelp.com/biz/belacan-grill-malaysian-bistro-tustin",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Lsq6yl6DnHmTKPfWKt8Snw/o.jpg"
-	},
-	{
-		"name": "Seasonal Kitchen USA",
-		"areas": ["Anaheim"],
-		"tags": ["Malaysian Bistro", "Singaporean", "Indonesian"],
-		"yelp": "https://www.yelp.com/biz/seasons-kitchen-usa-anaheim",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/m07SjJnRHmP97MGT1VG6Lw/o.jpg"
-	},
-	{
-		"name": "SHIOK! Asian Street Food",
-		"areas": ["Torrance"],
-		"tags": ["Asian Fusion"],
-		"yelp": "https://www.yelp.com/biz/shiok-asian-street-food-torrance",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/1naA8cIx4skJMt3FQOm29w/o.jpg"
-	},
-	{
-		"name": "Mee and Greet",
-		"areas": ["Palms"],
-		"tags": ["Asian Fusion"],
-		"yelp": "https://www.yelp.com/biz/mee-and-greet-los-angeles",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/RQ-AgMEooqGAeGvThQ2czw/o.jpg"
-	},
-	{
-		"name": "Sidechick",
-		"areas": ["Arcadia"],
-		"tags": ["Chicken Rice"],
-		"yelp": "https://www.yelp.com/biz/side-chick-arcadia",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YEhff1HJW6_v9qSaIRBerg/o.jpg"
-	},
+  {
+    "name": "Singapore's Banana Leaf",
+    "areas": ["Fairfax"],
+    "tags": ["Singaporean"],
+    "yelp": "https://www.yelp.com/biz/singapores-banana-leaf-los-angeles",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/DY_WSKy2fSBjmc_z8bTaoQ/o.jpg"
+  },
+  {
+    "name": "Belacan Grill",
+    "areas": ["Tustin"],
+    "tags": ["Malaysian Bistro"],
+    "yelp": "https://www.yelp.com/biz/belacan-grill-malaysian-bistro-tustin",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Lsq6yl6DnHmTKPfWKt8Snw/o.jpg"
+  },
+  {
+    "name": "Seasons Kitchen USA",
+    "areas": ["Anaheim"],
+    "tags": ["Malaysian Bistro", "Singaporean", "Indonesian"],
+    "yelp": "https://www.yelp.com/biz/seasons-kitchen-usa-anaheim",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/m07SjJnRHmP97MGT1VG6Lw/o.jpg"
+  },
+  {
+    "name": "SHIOK! Asian Street Food",
+    "areas": ["Torrance"],
+    "tags": ["Asian Fusion"],
+    "yelp": "https://www.yelp.com/biz/shiok-asian-street-food-torrance",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/1naA8cIx4skJMt3FQOm29w/o.jpg"
+  },
+  {
+    "name": "Mee and Greet",
+    "areas": ["Palms"],
+    "tags": ["Asian Fusion"],
+    "yelp": "https://www.yelp.com/biz/mee-and-greet-los-angeles",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/RQ-AgMEooqGAeGvThQ2czw/o.jpg"
+  },
+  {
+    "name": "Sidechick",
+    "areas": ["Arcadia"],
+    "tags": ["Chicken Rice"],
+    "yelp": "https://www.yelp.com/biz/side-chick-arcadia",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YEhff1HJW6_v9qSaIRBerg/o.jpg"
+  },
 
-	{
-		"name": "Savoy Kitchen",
-		"areas": ["Alhambra"],
-		"tags": ["Chicken Rice"],
-		"yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/o.jpg"
-	},
-	{
-		"name": "Simpang Asia",
-		"areas": ["Palms"],
-		"tags": ["Indonesian", "Malaysian", "Halal"],
-		"yelp": "https://www.yelp.com/biz/simpang-asia-los-angeles",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XWdR4_k7czXGGjebsTG0-Q/o.jpg"
-	},
-	{
-		"name": "Fragrant Jerky",
-		"areas": ["Rosemead"],
-		"tags": ["Bakkwa"],
-		"yelp": "https://www.yelp.com/biz/fragrant-jerky-rosemead-14",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/2Nn2bNBfYGiZ-f_UO94OKg/o.jpg"
-	},
-	{
-		"name": "Prata House",
-		"areas": ["West Covina"],
-		"tags": ["Prata", "Murtabak", "Kambing Soup"],
-		"yelp": "https://www.yelp.co.uk/biz/prata-house-west-covina",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qepl5uLCQWUFsbcZKuRZEA/o.jpg"
-	},
-	{
-		"name": "Cassia",
-		"areas": ["Santa Monica"],
-		"tags": ["Singaporean", "Vietnamese", "Seafood"],
-		"yelp": "https://www.yelp.com/biz/cassia-santa-monica",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/UEfR9OXVhLN1QAXypnRDMQ/o.jpg"
-	},
-	{
-		"name": "Cluck2Go",
-		"areas": ["Pasadena"],
-		"tags": ["Chicken Rice"],
-		"yelp": "https://www.yelp.com/biz/cluck2go-pasadena-9",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/V-0eNaay_jJrcT4CnPuS0Q/o.jpg"
-	},
-	{
-		"name": "Borneo Kalimantan Cuisine",
-		"areas": ["Alhambra"],
-		"tags": ["Indonesian", "Singaporean", "Malaysian"],
-		"yelp": "https://www.yelp.com/biz/borneo-kalimantan-cuisine-alhambra-2",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_6alagb-aO_mg3sOK_4JEg/o.jpg"
-	},
-	{
-		"name": "Mr. Sate",
-		"areas": ["Alhambra"],
-		"tags": ["Indonesian", "Asian Fusion", "Satay"],
-		"yelp": "https://www.yelp.com/biz/mr-sate-los-angeles",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/hVqQ8pr93HMBsvcMYgm4uA/o.jpg"
-	},
-	{
-		"name": "Uncle Fung Borneo Eatery",
-		"areas": ["Buena Park", "Long Beach"],
-		"tags": ["Indonesian", "Malaysian", "Singaporean", "Laksa"],
-		"yelp": "https://www.yelp.com/biz/uncle-fung-borneo-eatery-long-beach",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/4wx8mXCwZJBkN7Uq54j_MA/o.jpg"
-	},
-	{
-		"name": "QQ Kopitiam",
-		"areas": ["Pasadena"],
-		"tags": ["Laksa", "Singaporean"],
-		"yelp": "https://www.yelp.com/biz_photos/qq-kopitiam-pasadena",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/CDVqE4_7zbyYC1Yer1PxwQ/o.jpg"
-	},
-	{
-		"name": "Lee's Sandwiches",
-		"areas": ["Gardena", "Alhambra", "Torrance"],
-		"tags": ["Vietnamese", "Bahn Mi"],
-		"yelp": "https://www.yelp.com/biz/lees-sandwiches-alhambra",
-		"thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/q7MlnfjZxUfzt8REptvB0w/o.jpg"
-	}
+  {
+    "name": "Savoy Kitchen",
+    "areas": ["Alhambra"],
+    "tags": ["Chicken Rice"],
+    "yelp": "https://www.yelp.com/biz/savoy-kitchen-alhambra",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/HCP-HDFtmb3f_PWUn9jruw/o.jpg"
+  },
+  {
+    "name": "Simpang Asia",
+    "areas": ["Palms"],
+    "tags": ["Indonesian", "Malaysian", "Halal"],
+    "yelp": "https://www.yelp.com/biz/simpang-asia-los-angeles",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XWdR4_k7czXGGjebsTG0-Q/o.jpg"
+  },
+  {
+    "name": "Fragrant Jerky",
+    "areas": ["Rosemead"],
+    "tags": ["Bakkwa"],
+    "yelp": "https://www.yelp.com/biz/fragrant-jerky-rosemead-14",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/2Nn2bNBfYGiZ-f_UO94OKg/o.jpg"
+  },
+  {
+    "name": "Prata House",
+    "areas": ["West Covina"],
+    "tags": ["Prata", "Murtabak", "Kambing Soup"],
+    "yelp": "https://www.yelp.co.uk/biz/prata-house-west-covina",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qepl5uLCQWUFsbcZKuRZEA/o.jpg"
+  },
+  {
+    "name": "Cassia",
+    "areas": ["Santa Monica"],
+    "tags": ["Singaporean", "Vietnamese", "Seafood"],
+    "yelp": "https://www.yelp.com/biz/cassia-santa-monica",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/UEfR9OXVhLN1QAXypnRDMQ/o.jpg"
+  },
+  {
+    "name": "Cluck2Go",
+    "areas": ["Pasadena"],
+    "tags": ["Chicken Rice"],
+    "yelp": "https://www.yelp.com/biz/cluck2go-pasadena-9",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/V-0eNaay_jJrcT4CnPuS0Q/o.jpg"
+  },
+  {
+    "name": "Borneo Kalimantan Cuisine",
+    "areas": ["Alhambra"],
+    "tags": ["Indonesian", "Singaporean", "Malaysian"],
+    "yelp": "https://www.yelp.com/biz/borneo-kalimantan-cuisine-alhambra-2",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_6alagb-aO_mg3sOK_4JEg/o.jpg"
+  },
+  {
+    "name": "Mr. Sate",
+    "areas": ["Alhambra"],
+    "tags": ["Indonesian", "Asian Fusion", "Satay"],
+    "yelp": "https://www.yelp.com/biz/mr-sate-los-angeles",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/hVqQ8pr93HMBsvcMYgm4uA/o.jpg"
+  },
+  {
+    "name": "Uncle Fung Borneo Eatery",
+    "areas": ["Buena Park", "Long Beach"],
+    "tags": ["Indonesian", "Malaysian", "Singaporean", "Laksa"],
+    "yelp": "https://www.yelp.com/biz/uncle-fung-borneo-eatery-long-beach",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/4wx8mXCwZJBkN7Uq54j_MA/o.jpg"
+  },
+  {
+    "name": "QQ Kopitiam",
+    "areas": ["Pasadena"],
+    "tags": ["Laksa", "Singaporean"],
+    "yelp": "https://www.yelp.com/biz_photos/qq-kopitiam-pasadena",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/CDVqE4_7zbyYC1Yer1PxwQ/o.jpg"
+  },
+  {
+    "name": "Lee's Sandwiches",
+    "areas": ["Gardena", "Alhambra", "Torrance"],
+    "tags": ["Vietnamese", "Bahn Mi"],
+    "yelp": "https://www.yelp.com/biz/lees-sandwiches-alhambra",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/q7MlnfjZxUfzt8REptvB0w/o.jpg"
+  }
 ]
