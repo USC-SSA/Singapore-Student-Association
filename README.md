@@ -8,6 +8,7 @@ For more information, please contact us at ssa.socal@gmail.com.
 
 ## Maintainers
 **2022 -**
+
 [@WilsonLimSet](https://github.com/WilsonLimSet)
 
 **2020**
