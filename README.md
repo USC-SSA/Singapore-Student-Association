@@ -7,7 +7,9 @@ The official USC Singapore Student Association website repository. Written in pl
 For more information, please contact us at ssa.socal@gmail.com.
 
 ## Maintainers
+**2022 -**
+[@WilsonLimSet](https://github.com/WilsonLimSet)
 
-**2020 -**
+**2020**
 
 [@neutonfoo](https://github.com/neutonfoo)
